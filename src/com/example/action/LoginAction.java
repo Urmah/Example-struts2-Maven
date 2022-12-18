@@ -13,8 +13,6 @@ public class LoginAction   {
 	}
 	
 	public String execute() {
-
 		return "SUCCESS";
-
 	}
 }
