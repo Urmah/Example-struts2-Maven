@@ -2,8 +2,8 @@ package com.example.action;
 
 
 public class LoginAction   {
-	private String username;
 
+	private String username;
 	public String getUsername() {
 		return username;
 	}
