@@ -15,4 +15,8 @@ public class LoginAction   {
 	public String execute() {
 		return "SUCCESS";
 	}
+
+	public String toString() {
+		return "toString";
+	}
 }
